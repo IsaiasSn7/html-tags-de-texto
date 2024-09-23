@@ -7,3 +7,11 @@
 - p: serve para adicionar um paragrafo
 
 - b: serve para deixar texto em negrito
+
+- u: serve para deixar o texto sublinhado
+
+- i: serve para deixar o texto em italico
+
+- br: faz a quebra de linha
+
+- hr: adiciona uma linha na entre os textos
